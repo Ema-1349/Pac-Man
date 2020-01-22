@@ -1,0 +1,70 @@
+body {
+	font-family: verdana;
+	background-image: url(images/pacman.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center ;
+}
+
+div {
+	background-color: rgb(253,255,0,0.7);
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px;
+	padding-top:  30px;
+	padding-bottom:  30px;
+	border: 30px 	#d03e19;
+}
+
+h1 {
+	font-family: verdana;
+	color: 	#d03e19 ;
+	text-align: center;
+	background-color:rgb(234,130,229,0.8);
+	font-size: 32px;
+	text-shadow: 5px 5px 15px #ffffff;
+}
+
+h2 {
+	font-family: verdana;
+	color: 	#d03e19;
+	background-color:rgb(234,130,229,0.8);
+	text-align: center;
+	font-size: 24px;
+	text-shadow:5px 5px 15px #ffffff ;
+}
+
+h3 {
+	color: 	#d03e19;
+	background-color:rgb(234,130,229,0.8) ;
+	text-align: center;
+	font-size: 20px;
+	text-shadow: 5px 5px 15px #ffffff ;
+}
+
+p {
+	font-family: verdana;
+	font-size: 20px;
+	line-height: 1.4em;
+	text-indent: 30px;
+	margin-bottom: 40px;
+	color: 	#1c4c5f;
+	text-shadow: 5px 5px 15px #46bfee;
+}
+ul {
+	text-align: center;
+	font-family:verdana;
+	font-size: 20px;
+	line-height: 1.4em;
+	margin-bottom: 20px;
+	color: #1c4c5f;
+	text-shadow: 5px 5px 15px #46bfee;
+}
+ iframe{
+	 border: 10px solid white;
+	box-shadow: 20px 20px 30px black ;
+	margin-left: 100px;
+	margin-right: 100px ;
+ }
